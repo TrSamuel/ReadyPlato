@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<module fileurl="file://$PROJECT_DIR$/apps/readyplato/melos_readyplato.iml" filepath="$PROJECT_DIR$/apps/readyplato/melos_readyplato.iml"/>
+<module fileurl="file://$PROJECT_DIR$/apps/readyplato_admin/melos_readyplato_admin.iml" filepath="$PROJECT_DIR$/apps/readyplato_admin/melos_readyplato_admin.iml"/>
+<module fileurl="file://$PROJECT_DIR$/apps/readyplato_business/melos_readyplato_business.iml" filepath="$PROJECT_DIR$/apps/readyplato_business/melos_readyplato_business.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/shared_core/melos_shared_core.iml" filepath="$PROJECT_DIR$/packages/shared_core/melos_shared_core.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/shared_db/melos_shared_db.iml" filepath="$PROJECT_DIR$/packages/shared_db/melos_shared_db.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/shared_ui/melos_shared_ui.iml" filepath="$PROJECT_DIR$/packages/shared_ui/melos_shared_ui.iml"/>
+<module fileurl="file://$PROJECT_DIR$/melos_readyplato_workspace.iml" filepath="$PROJECT_DIR$/melos_readyplato_workspace.iml"/>
+    </modules>
+  </component>
+</project>
